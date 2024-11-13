@@ -21,7 +21,7 @@ subapartados = {
         "UDP -> C -> S", 
         "Comunicación Directa", 
         "Comunicación Indirecta", 
-        "Autentificación C -> S"
+        "Autentificación cs"
     ],
     "Semaforos": [
         "Sincronización Semáforos", 
